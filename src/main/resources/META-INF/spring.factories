@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.peiyi.lin.config.AopAutoConfiguration,\
+cn.peiyi.lin.config.JwtAutoConfiguration,\
+cn.peiyi.lin.config.ExceptionAutoConfiguration
